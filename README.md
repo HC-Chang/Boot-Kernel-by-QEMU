@@ -104,7 +104,8 @@ u-boot -> kernel -> rootfs
 
 ---
 
-**NOTE**	
+## NOTE:
+	
 **test kernel error** -> audio: Failed to create voice 'lm4549.out' 
 
 **solve** -> 
